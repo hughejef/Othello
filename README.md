@@ -1,6 +1,6 @@
-# portfolio-project
 
-For this project you will write a class called Othello that allows two people to play text-based Othello (https://en.wikipedia.org/wiki/Reversi).  The Othello game is a strategy board game. In this game, two players take turns placing their colored pieces on an 8x8 board. The objective is to capture the opponent's pieces and have the majority of your own pieces on the board at the end of the game
+
+This is a game called Othello that allows two people to play text-based Othello (https://en.wikipedia.org/wiki/Reversi).  The Othello game is a strategy board game. In this game, two players take turns placing their colored pieces on an 8x8 board. The objective is to capture the opponent's pieces and have the majority of your own pieces on the board at the end of the game
 
 **Rules:**
 
